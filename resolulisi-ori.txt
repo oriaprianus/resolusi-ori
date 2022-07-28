@@ -1,3 +1,4 @@
 resolusi ori
 - membuat platform untuk video
 - membuat forum editing
+- membuat website
